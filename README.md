@@ -79,3 +79,29 @@ This interactive dashboard provides **executive-level insights** into sales, inv
 ---
 
 ## 📁 Repository Contents
+
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file
+2. Open in **Power BI Desktop**
+3. Refresh data sources if needed
+4. Interact with slicers and drill-downs
+
+---
+
+## 📈 Ideal For
+- Sales managers
+- Product analysts
+- Regional directors
+- Executive reporting
+
+---
+
+## 📄 License
+MIT License – Free to use, modify, and distribute.
+
+---
+
+**Star ⭐ this repo if you find it useful for learning Power BI!**
